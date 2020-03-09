@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://img.iptvmate.net/empty.png" tvg-country="IN" tvg-url="" group-title="Fashion",Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/dd3354dafad45453e86d036bbe8ac662.jpg" tvg-country="FR" tvg-url="" group-title="Fashion",Fashion TV L'Original
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/dd3354dafad45453e86d036bbe8ac662.jpg" tvg-country="FR" tvg-url="" group-title="Fashion",Fashion TV L'Original
+https://ch.iptvmate.net/333115e666a236b96818b4fd5ecebdb1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/dd3354dafad45453e86d036bbe8ac662.jpg" tvg-country="FR" tvg-url="" group-title="Fashion",Fashion TV L'Original
+https://ch.iptvmate.net/a57a5de4baa5da986e63d6e9e0a3eaf2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/b56849dec8cb195a04fb696edbf5dff4.png" tvg-country="FR" tvg-url="" group-title="Fashion",Fashion TV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/b56849dec8cb195a04fb696edbf5dff4.png" tvg-country="FR" tvg-url="" group-title="Fashion",Fashion TV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/b56849dec8cb195a04fb696edbf5dff4.png" tvg-country="FR" tvg-url="" group-title="Fashion",Fashion TV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/b56849dec8cb195a04fb696edbf5dff4.png" tvg-country="FR" tvg-url="" group-title="Fashion",Fashion TV Midnite Secrets
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/b56849dec8cb195a04fb696edbf5dff4.png" tvg-country="FR" tvg-url="" group-title="Fashion",Fashion TV Midnite Secrets
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/33661ee59167e58440e370e867a57afd.png" tvg-country="FR" tvg-url="" group-title="Fashion",Fashion TV Paris
+https://ch.iptvmate.net/7240f69fe2baaeffb2ebb5e1c54322bc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/33661ee59167e58440e370e867a57afd.png" tvg-country="FR" tvg-url="" group-title="Fashion",Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/33661ee59167e58440e370e867a57afd.png" tvg-country="FR" tvg-url="" group-title="Fashion",Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/33661ee59167e58440e370e867a57afd.png" tvg-country="FR" tvg-url="" group-title="Fashion",Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/33661ee59167e58440e370e867a57afd.png" tvg-country="FR" tvg-url="" group-title="Fashion",Fashion TV Paris
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/41269d623d575f3ceee0b723f9bb3c0f.png" tvg-country="FR" tvg-url="" group-title="Fashion",Fashion TV Paris
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/ded14521084d6011f1bdcbb103a3c311.png" tvg-country="FR" tvg-url="" group-title="Fashion",Fashion TV PG13
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/ded14521084d6011f1bdcbb103a3c311.png" tvg-country="FR" tvg-url="" group-title="Fashion",Fashion TV PG13
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/ded14521084d6011f1bdcbb103a3c311.png" tvg-country="FR" tvg-url="" group-title="Fashion",Fashion TV PG13
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/dd3354dafad45453e86d036bbe8ac662.jpg" tvg-country="FR" tvg-url="" group-title="Fashion",Fashion TV PG16
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/dd3354dafad45453e86d036bbe8ac662.jpg" tvg-country="FR" tvg-url="" group-title="Fashion",Fashion TV PG16
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/dd3354dafad45453e86d036bbe8ac662.jpg" tvg-country="FR" tvg-url="" group-title="Fashion",Fashion TV PG16
+https://ch.iptvmate.net/b459cfa2c2eca9c1ed5768c3591a1156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://img.iptvmate.net/dd3354dafad45453e86d036bbe8ac662.jpg" tvg-country="FR" tvg-url="" group-title="Fashion",Fashion TV PG16
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="https://img.iptvmate.net/385c69142303b6d94af9978109b9a976.png" tvg-country="CZ" tvg-url="" group-title="Fashion",FashionTV Czech&Slovak
+https://ch.iptvmate.net/cc55c9106066153d9d31b04718968cdf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://img.iptvmate.net/9fb56e1ba0d4d74c71602ebc5b2e9574.png" tvg-country="SK" tvg-url="" group-title="Fashion",FashionTV Czech&Slovak
+https://ch.iptvmate.net/cc55c9106066153d9d31b04718968cdf.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="hdfashion" tvg-name="HDFashion" tvg-language="Ukrainian" tvg-logo="https://img.iptvmate.net/9b2fcdf04518a0384740a65d53470db9.jpg" tvg-country="UA" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Fashion",HDFashion & LifeStyle
+https://ch.iptvmate.net/417057fba179467854c0c947f5322307.m3u8
+#EXTINF:-1 tvg-id="hdfashion" tvg-name="HDFashion" tvg-language="Ukrainian" tvg-logo="https://img.iptvmate.net/9b2fcdf04518a0384740a65d53470db9.jpg" tvg-country="UA" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Fashion",HDFashion & LifeStyle
+https://ch.iptvmate.net/417057fba179467854c0c947f5322307.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-id="hdfashion" tvg-name="HDFashion" tvg-language="Ukrainian" tvg-logo="https://img.iptvmate.net/9b2fcdf04518a0384740a65d53470db9.jpg" tvg-country="UA" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Fashion",HDFashion & LifeStyle
+https://ch.iptvmate.net/776d408a6b09ef51f2d2e4ae944551c4.m3u8
+#EXTINF:-1 tvg-id="id-fashion" tvg-name="ID Fashion" tvg-language="Ukrainian" tvg-logo="https://img.iptvmate.net/6f003049f9f331d02dff2a900e472e67.png" tvg-country="UA" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Fashion",ID Fashion
+https://ch.iptvmate.net/2553488e84dd6feeec0ea91cbbc5c1ba.m3u8
+#EXTINF:-1 tvg-id="id-fashion" tvg-name="ID Fashion" tvg-language="Ukrainian" tvg-logo="https://img.iptvmate.net/6f003049f9f331d02dff2a900e472e67.png" tvg-country="UA" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Fashion",ID Fashion
+https://ch.iptvmate.net/74859297371e74b3ceed78333984bb58.m3u8
+#EXTINF:-1 tvg-id="id-fashion" tvg-name="ID Fashion" tvg-language="Ukrainian" tvg-logo="https://img.iptvmate.net/6f003049f9f331d02dff2a900e472e67.png" tvg-country="UA" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Fashion",ID Fashion
+https://ch.iptvmate.net/99946a5bf11422b30dded86f93e9f51b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://img.iptvmate.net/ec71522e6796bc673d3b3dfc3ca6d28a.jpg" tvg-country="US" tvg-url="" group-title="Fashion",Models Inc.
+https://ch.iptvmate.net/d00d38c782a5d1b5908a2fd332a2a891.m3u8
